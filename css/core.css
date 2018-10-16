@@ -30,13 +30,13 @@ body .container{
 }
 
 body .color-theme{
-    color: #46d8fb;
+    color: #5bafa2;
 }
 
 body #idDesign{
     position: relative;
     font-size: 5rem;
-    margin: 10% 0 0 10px;
+    margin: 15% 0 0 10px;
     font-weight: 500;
     display: inline-block;
 }
